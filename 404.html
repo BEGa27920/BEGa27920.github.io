@@ -6,8 +6,7 @@
   <script>
     console.log(`${window.location.hostname}?link=${window.location.pathname}`);
     alert(`${window.location.hostname}?link=${window.location.pathname}`);
-    // window.location.assign(`${window.location.hostname}?link=${window.location.pathname}`);
-    window.location.assign("https://www.w3schools.com");
+    window.location.assign(`${window.location.protocol}//${window.location.hostname}/?link=${window.location.pathname}`);
   </script>
 </body>
 
