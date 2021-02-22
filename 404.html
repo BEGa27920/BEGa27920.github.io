@@ -4,6 +4,8 @@
 <body>
   <h1>404 Page</h1>
   <script>
+    console.log(`${window.location.hostname}?link=${window.location.pathname}`);
+    alert(`${window.location.hostname}?link=${window.location.pathname}`);
     window.location.assign(`${window.location.hostname}?link=${window.location.pathname}`);
   </script>
 </body>
