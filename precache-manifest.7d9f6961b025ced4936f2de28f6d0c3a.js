@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/64.ico"
   },
   {
-    "revision": "a34b358bfc870047d40e",
+    "revision": "682bbf0a20272749fd4c",
     "url": "/css/app.564aeb74.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/CV Trần Quang Đức.0e0e080c.jpg"
   },
   {
-    "revision": "17d576131aa292d612b2e7f9adc1abb3",
+    "revision": "a060dfb1edf8d29695f6d0d531909381",
     "url": "/index.html"
   },
   {
-    "revision": "a34b358bfc870047d40e",
-    "url": "/js/app.0dd73b2a.js"
+    "revision": "682bbf0a20272749fd4c",
+    "url": "/js/app.4689e719.js"
   },
   {
     "revision": "a06926a23c927b7803fa",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-c388914e.72de9961.js"
   },
   {
-    "revision": "3cf9b27726499b042bd6",
-    "url": "/js/chunk-vendors.f4b566ca.js"
+    "revision": "e2d8a024de8d85270240",
+    "url": "/js/chunk-vendors.4cb0a747.js"
   },
   {
     "revision": "504b4a0fc98ac35b41d1a993ce71d68f",

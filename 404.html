@@ -3,7 +3,7 @@
 
 <body>
   <script>
-    const url = new URL(window.location.href)
+    const url = new URL(window.location.href);
     window.location.assign(`${url.protocol}//${url.host}/?link=${url.pathname}${url.search}`);
   </script>
 </body>
